@@ -1,7 +1,6 @@
 # Dimagew
 Dimagew/Dimagew.PNG
 Dimagew, web sayfalarından görüntü indirmeyi sağlayan bir Windows Forms uygulamasıdır.
-![Dimagew Ekran Görüntüsü](Dimagew/Dimagew.PNG)
 
 ## Kullanım
 
@@ -9,7 +8,10 @@ Dimagew, web sayfalarından görüntü indirmeyi sağlayan bir Windows Forms uyg
 2. URL kutusuna bir web sayfası URL'si girin.
 3. Web sayfasından bulunan resimleri listelemesini bekleyin.
 4. Listelenen resimlerden görüntüleri önizleyin.
-5. "Seçileni İndir" düğmesine tıklayarak seçilen resmi indirin. || "Tümünü İndir" düğmesine tıklayarak tüm resimleri indirin. 
+5. "Seçileni İndir" düğmesine tıklayarak seçilen resmi indirin. || "Tümünü İndir" düğmesine tıklayarak tüm resimleri indirin.
+
+## Ekran Görüntüsü
+![Dimagew Ekran Görüntüsü](Dimagew/Dimagew.PNG)
 
 ## Gereksinimler
 
