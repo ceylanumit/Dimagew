@@ -1,5 +1,4 @@
 # Dimagew
-Dimagew/Dimagew.PNG
 Dimagew, web sayfalarından görüntü indirmeyi sağlayan bir Windows Forms uygulamasıdır.
 
 ## Kullanım
